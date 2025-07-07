@@ -154,24 +154,15 @@
 
 ## Fun Facts
 
-<p align="center" style="max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #276749; font-weight: 600; font-size: 18px;">
+<div align="center" style="max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #276749; font-weight: 600; font-size: 22px; line-height: 1.5;">
 
-  <span style="display: flex; align-items: center; margin-bottom: 16px;">
-    <span style="font-size: 32px; color: #38a169; margin-right: 12px;">🧠</span>
-    <span>I love building <strong>interactive learning experiences</strong> with modern tech</span>
-  </span>
+- <span style="font-size: 36px; color: #38a169; vertical-align: middle; margin-right: 12px;">🧠</span> I love building **interactive learning experiences** with modern tech
 
-  <span style="display: flex; align-items: center; margin-bottom: 16px;">
-    <span style="font-size: 32px; color: #38a169; margin-right: 12px;">🎓</span>
-    <span>Preparing for my Master’s in <strong>Web Development at ITMO University</strong></span>
-  </span>
+- <span style="font-size: 36px; color: #38a169; vertical-align: middle; margin-right: 12px;">🎓</span> Preparing for my Master’s in **Web Development at ITMO University**
 
-  <span style="display: flex; align-items: center;">
-    <span style="font-size: 32px; color: #38a169; margin-right: 12px;">⚡️</span>
-    <span>I believe coding = <em>creativity</em> + <em>precision</em> + <em>empathy</em> for users</span>
-  </span>
+- <span style="font-size: 36px; color: #38a169; vertical-align: middle; margin-right: 12px;">⚡️</span> I believe coding = _creativity_ + _precision_ + _empathy_ for users
 
-</p>
+</div>
 
 ---
 
