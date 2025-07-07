@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0fff4,100:38a169&height=160&section=header&animation=twinkling&text=Hi!%20I'm%20Vladislav%20Prozorov&fontSize=35&fontColor=f0fff4" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2f855a,100:38a169&height=160&section=header&animation=twinkling&text=Hi!%20I'm%20Vladislav%20Prozorov&fontSize=35&fontColor=fff"
+    alt="Greeting"
+  />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38A169&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+PostgreSQL;Building+EdTech+%26+Interactive+Apps;Let’s+Learn,+Build,+Inspire!+🌱" alt="Typing SVG" />
+  <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38A169&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+PostgreSQL;Building+EdTech+%26+Interactive+Apps;Let%E2%80%99s+Learn,+Build,+Inspire!+%F0%9F%8C%B1"
+    alt="Typing SVG"
+  />
+</p>
 </h2>
 
 ---
@@ -72,57 +80,23 @@
     </td>
   </tr>
 </table>
-<p align="center" style="color:#FFF; font-weight:bold; font-size:16px;">
-  🌿 Building modern, scalable, and interactive apps with a fresh green touch!
+
+<p align="center" style="max-width: 620px;">
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" alt="Education" width="36" height="36" style="vertical-align: middle; filter: invert(28%) sepia(81%) saturate(480%) hue-rotate(85deg) brightness(90%) contrast(88%);" />
+  <span style="font-weight: 600; font-size: 19px; color: #276749; margin-left: 10px;">Educational platform for learning technical English</span>
+  
+  <br><br>
+  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Quizzes" width="36" height="36" style="vertical-align: middle; filter: invert(28%) sepia(81%) saturate(480%) hue-rotate(85deg) brightness(90%) contrast(88%);" />
+<span style="font-weight: 600; font-size: 19px; color: #276749; margin-left: 10px;">Interactive quizzes and real-time games with WebSockets</span>
+
+<br><br>
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Backend" width="36" height="36" style="vertical-align: middle; filter: invert(28%) sepia(81%) saturate(480%) hue-rotate(85deg) brightness(90%) contrast(88%);" />
+  <span style="font-weight: 600; font-size: 19px; color: #276749; margin-left: 10px;">Scalable backend architecture using MVC + SOLID principles</span>
+
 </p>
-
-## 🔭 Currently Working On
-
-<style>
-  .work-item {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    font-size: 19px;
-    color: #276749;
-    font-weight: 600;
-    margin: 12px 0;
-    transition: color 0.3s ease;
-    cursor: pointer;
-  }
-  .work-item:hover {
-    color: #38a169;
-  }
-  .work-icon {
-    width: 36px;
-    height: 36px;
-    transition: transform 0.3s ease, filter 0.3s ease;
-    filter: invert(28%) sepia(81%) saturate(480%) hue-rotate(85deg) brightness(90%) contrast(88%);
-  }
-  .work-item:hover .work-icon {
-    transform: scale(1.2);
-    filter: invert(45%) sepia(92%) saturate(600%) hue-rotate(90deg) brightness(110%) contrast(105%);
-  }
-</style>
-
-<div align="center" style="max-width: 620px;">
-
-  <div class="work-item" tabindex="0">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" alt="Education" class="work-icon" />
-    Educational platform for learning technical English
-  </div>
-
-  <div class="work-item" tabindex="0">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/websockets.svg" alt="Quizzes" class="work-icon" />
-    Interactive quizzes and real-time games with WebSockets
-  </div>
-
-  <div class="work-item" tabindex="0">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Backend" class="work-icon" />
-    Scalable backend architecture using MVC + SOLID principles
-  </div>
-
-</div>
 
 ---
 
@@ -151,6 +125,7 @@
 </p>
 
 ---
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -169,32 +144,32 @@
 
 ## Fun Facts
 
-<table align="center" style="max-width:600px; margin:auto; border-collapse: collapse; color:#fff; font-size:18px; font-weight:600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<table align="center" style="max-width:600px; margin:auto; border-collapse: collapse; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#276749; font-size:18px; font-weight:600;">
   <tbody>
-    <tr style="cursor:pointer; transition: color 0.3s ease;" onmouseover="this.style.color='#48bb78'" onmouseout="this.style.color='#fff'">
-      <td width="50" align="center" style="padding:10px 5px;">
+    <tr>
+      <td width="50" align="center" style="padding:12px 8px;">
         <!-- Brain SVG icon -->
-        <svg xmlns="http://www.w3.org/2000/svg" fill="#48bb78" viewBox="0 0 24 24" width="30" height="30"><path d="M12 2C7 2 4 5.3 4 9.6c0 1.7 1.3 3.1 3 3.5v4.2c0 .7.5 1.2 1.2 1.3.7 0 1.3-.6 1.3-1.3v-3.9c1.7 0 3-1.2 3-2.8 0-2.3-2.7-4.2-6-4.2z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="#38a169" viewBox="0 0 24 24" width="32" height="32" aria-hidden="true"><path d="M12 2C7 2 4 5.3 4 9.6c0 1.7 1.3 3.1 3 3.5v4.2c0 .7.5 1.2 1.2 1.3.7 0 1.3-.6 1.3-1.3v-3.9c1.7 0 3-1.2 3-2.8 0-2.3-2.7-4.2-6-4.2z"/></svg>
       </td>
-      <td style="padding:10px 15px;">
+      <td style="padding:12px 15px; vertical-align: middle;">
         I love building <strong>interactive learning experiences</strong> with modern tech
       </td>
     </tr>
-    <tr style="cursor:pointer; transition: color 0.3s ease;" onmouseover="this.style.color='#48bb78'" onmouseout="this.style.color='#fff'">
-      <td width="50" align="center" style="padding:10px 5px;">
+    <tr>
+      <td width="50" align="center" style="padding:12px 8px;">
         <!-- Graduation cap SVG icon -->
-        <svg xmlns="http://www.w3.org/2000/svg" fill="#48bb78" viewBox="0 0 24 24" width="30" height="30"><path d="M12 3l9 4.5-9 4.5-9-4.5L12 3zM3 11v5l9 5 9-5v-5l-9 5-9-5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="#38a169" viewBox="0 0 24 24" width="32" height="32" aria-hidden="true"><path d="M12 3l9 4.5-9 4.5-9-4.5L12 3zM3 11v5l9 5 9-5v-5l-9 5-9-5z"/></svg>
       </td>
-      <td style="padding:10px 15px;">
+      <td style="padding:12px 15px; vertical-align: middle;">
         Preparing for my Master’s in <strong>Web Development at ITMO University</strong>
       </td>
     </tr>
-    <tr style="cursor:pointer; transition: color 0.3s ease;" onmouseover="this.style.color='#48bb78'" onmouseout="this.style.color='#fff'">
-      <td width="50" align="center" style="padding:10px 5px;">
+    <tr>
+      <td width="50" align="center" style="padding:12px 8px;">
         <!-- Lightning bolt SVG icon -->
-        <svg xmlns="http://www.w3.org/2000/svg" fill="#48bb78" viewBox="0 0 24 24" width="30" height="30"><path d="M7 2v10h3v10l7-12h-4l4-8z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="#38a169" viewBox="0 0 24 24" width="32" height="32" aria-hidden="true"><path d="M7 2v10h3v10l7-12h-4l4-8z"/></svg>
       </td>
-      <td style="padding:10px 15px;">
+      <td style="padding:12px 15px; vertical-align: middle;">
         I believe coding = <em>creativity</em> + <em>precision</em> + <em>empathy</em> for users
       </td>
     </tr>
@@ -205,15 +180,17 @@
 
 <!-- 🌿 GREEN FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0fff4,100:38a169&height=150&section=footer&animation=twinkling" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2f855a,100:38a169&height=150&section=footer&animation=twinkling&fontSize=28&fontColor=fff&text=Thank+you+for+visiting!+Let's+connect!"
+    alt="Footer Greeting"
+  />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38A169&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Let's+connect!" />
-</p>
-
-<p align="center">
+<p align="center" style="margin-top: 10px;">
   <a href="#top">
-    <img src="https://img.shields.io/badge/-Back%20to%20Top-38a169?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/-Back%20to%20Top-38a169?style=for-the-badge&logo=github&logoColor=white"
+      alt="Back to Top"
+    />
   </a>
 </p>
