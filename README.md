@@ -1,4 +1,4 @@
-[![Header](https://github.com/vladislavprozorov/vladislavprozorov/blob/main/assets/header.png)](https://www.youtube.com/@vladisprozorov)
+[![Header](https://github.com/vladislavprozorov/vladislavprozorov/blob/main/assets/header.jpg)](https://www.youtube.com/@vladisprozorov)
 
 <h2 align="center">Hi, I'm Vladislav Prozorov 👋</h2>
 
@@ -11,9 +11,9 @@
 ## 🚀 Tech Stack
 
 ```ts
-Frontend:  React • TypeScript • TailwindCSS • Redux Toolkit • Framer Motion  
-Backend:   Node.js • Express.js • PostgreSQL • Sequelize • MongoDB  
-DevTools:  Git • GitHub Actions • VS Code • ESLint • Prettier  
+Frontend:  React • TypeScript • TailwindCSS • Redux Toolkit • Framer Motion
+Backend:   Node.js • Express.js • PostgreSQL • Sequelize • MongoDB
+DevTools:  Git • GitHub Actions • VS Code • ESLint • Prettier
 ```
 
 ---
@@ -28,8 +28,7 @@ DevTools:  Git • GitHub Actions • VS Code • ESLint • Prettier
 
 ## 🎥 Latest YouTube Video
 
-[![Latest Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
----
+## [![Latest Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ## 📊 GitHub Stats
 
