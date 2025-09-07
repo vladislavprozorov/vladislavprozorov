@@ -94,15 +94,15 @@ My commitment is to **clean code, scalable architecture, and meaningful user exp
 
 ## ☕︎‧ Why work with me? (From Code to Business Value)
 
-**User Engagement Growth** — Increased platform user engagement by **40%** through interactive learning features and gamification.  
-**Backend Performance** — Reduced backend response times by **35%** by optimizing APIs with Express.js and Sequelize.  
-**Real-World Educational Platform** — Successfully built and deployed a full-scale **educational platform** used by over **500+ students**.  
-**Security & Reliability** — Designed and implemented authentication & security flows that decreased login-related issues by **60%**.  
-**Team Efficiency** — Contributed to projects that improved overall team delivery speed by **25%** through clean code and scalable architecture.
+**✔ User Engagement Growth** — Increased platform user engagement by **40%** through interactive learning features and gamification.  
+**✔ Backend Performance** — Reduced backend response times by **35%** by optimizing APIs with Express.js and Sequelize.  
+**✔ Real-World Educational Platform** — Successfully built and deployed a full-scale **educational platform** used by over **500+ students**.  
+**✔ Security & Reliability** — Designed and implemented authentication & security flows that decreased login-related issues by **60%**.  
+**✔ Team Efficiency** — Contributed to projects that improved overall team delivery speed by **25%** through clean code and scalable architecture.
 
 ---
 
-## 📊 GitHub Stats
+## ★★★★★ GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vladislavprozorov&show_icons=true&theme=radical&hide_title=true" />
@@ -111,7 +111,7 @@ My commitment is to **clean code, scalable architecture, and meaningful user exp
 
 ---
 
-## 📈 Contribution Graph
+## ✎ Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladislavprozorov&theme=github-compact" />
@@ -119,7 +119,7 @@ My commitment is to **clean code, scalable architecture, and meaningful user exp
 
 ---
 
-## 📫 Let's Connect
+## ❝ Let's Connect
 
 <p align="center">
   <a href="https://www.youtube.com/@vladisprozorov">
