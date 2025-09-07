@@ -83,7 +83,7 @@
 
 ---
 
-## ☘️ Why work with me?
+## ☘️ Why work with me? (From Code to Business Value)
 
 **User Engagement Growth** — Increased platform user engagement by **40%** through interactive learning features and gamification.  
 **Backend Performance** — Reduced backend response times by **35%** by optimizing APIs with Express.js and Sequelize.  
