@@ -85,22 +85,13 @@
 
 ## ☘️ Why work with me?
 
-**📈 User Engagement Growth** — Increased platform user engagement by **40%** through interactive learning features and gamification.  
-**⚡ Backend Performance** — Reduced backend response times by **35%** by optimizing APIs with Express.js and Sequelize.  
-**🛠 Real-World Educational Platform** — Successfully built and deployed a full-scale **educational platform** used by over **500+ students**.  
-**🔒 Security & Reliability** — Designed and implemented authentication & security flows that decreased login-related issues by **60%**.  
-**📊 Team Efficiency** — Contributed to projects that improved overall team delivery speed by **25%** through clean code and scalable architecture.
+**User Engagement Growth** — Increased platform user engagement by **40%** through interactive learning features and gamification.  
+**Backend Performance** — Reduced backend response times by **35%** by optimizing APIs with Express.js and Sequelize.  
+**Real-World Educational Platform** — Successfully built and deployed a full-scale **educational platform** used by over **500+ students**.  
+**Security & Reliability** — Designed and implemented authentication & security flows that decreased login-related issues by **60%**.  
+**Team Efficiency** — Contributed to projects that improved overall team delivery speed by **25%** through clean code and scalable architecture.
 
 ---
-
-## 🎥 Latest YouTube Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <!-- <img width="30%" src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Latest YouTube Video" /> -->
-    Youtube video is coming soon...
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 
