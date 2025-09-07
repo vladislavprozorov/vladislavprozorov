@@ -14,7 +14,7 @@
 </p>
 </h2>
 
-## 💻 Full Stack Developer | UI/UX Engineer | Growth-Oriented
+## 💡 Full Stack Developer | UI/UX Engineer | Growth-Oriented
 I specialize in building **interactive, scalable, and high-performance web applications** that turn complex challenges into intuitive digital solutions. I deliver end-to-end solutions across:
 
 **Full Stack Development**: React, TypeScript, Node.js, Express.js, Sequelize, REST APIs  
