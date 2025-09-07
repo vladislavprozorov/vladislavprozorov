@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2f855a,100:38a169&height=160&section=header&animation=twinkling&text=Hi!%20I'm%20Vladislav%20Prozorov&fontSize=35&fontColor=fff"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2f855a,100:38a169&height=160&section=header&animation=twinkling&text=Hello 👋!%20I'm%20Vladislav%20Prozorov&fontSize=35&fontColor=fff"
     alt="Greeting"
   />
 </p>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
