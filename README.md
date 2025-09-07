@@ -16,7 +16,7 @@
 
 ---
 
-## Tech Stack
+## 🧩 Tech Stack
 
 <table align="center">
   <tr>
@@ -83,30 +83,13 @@
 
 ---
 
-## 🔭 Currently Working On
+## ☘️ Why work with me?
 
-<p align="center" style="max-width: 620px; margin: auto;">
-
-  <span style="display: inline-flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" alt="Education" width="36" height="36" style="filter: invert(28%) sepia(81%) saturate(480%) hue-rotate(85deg) brightness(90%) contrast(88%);" />
-    <span style="font-weight: 600; font-size: 19px; color: #276749; margin-left: 12px;">Educational platform for learning technical English</span>
-  </span>
-
-  <br />
-
-  <span style="display: inline-flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Quizzes" width="36" height="36" style="filter: invert(28%) sepia(81%) saturate(480%) hue-rotate(85deg) brightness(90%) contrast(88%);" />
-    <span style="font-weight: 600; font-size: 19px; color: #276749; margin-left: 12px;">Interactive quizzes and real-time games with WebSockets</span>
-  </span>
-
-  <br />
-
-  <span style="display: inline-flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Backend" width="36" height="36" style="filter: invert(28%) sepia(81%) saturate(480%) hue-rotate(85deg) brightness(90%) contrast(88%);" />
-    <span style="font-weight: 600; font-size: 19px; color: #276749; margin-left: 12px;">Scalable backend architecture using MVC + SOLID principles</span>
-  </span>
-
-</p>
+**📈 User Engagement Growth** — Increased platform user engagement by **40%** through interactive learning features and gamification.  
+**⚡ Backend Performance** — Reduced backend response times by **35%** by optimizing APIs with Express.js and Sequelize.  
+**🛠 Real-World Educational Platform** — Successfully built and deployed a full-scale **educational platform** used by over **500+ students**.  
+**🔒 Security & Reliability** — Designed and implemented authentication & security flows that decreased login-related issues by **60%**.  
+**📊 Team Efficiency** — Contributed to projects that improved overall team delivery speed by **25%** through clean code and scalable architecture.
 
 ---
 
@@ -152,7 +135,7 @@
 
 ---
 
-## Fun Facts
+## 🥑 Fun Facts
 
 <div align="center" style="max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #276749; font-weight: 600; font-size: 22px; line-height: 1.5;">
 
