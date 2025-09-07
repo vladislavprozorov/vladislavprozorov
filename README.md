@@ -111,7 +111,7 @@ My commitment is to **clean code, scalable architecture, and meaningful user exp
 
 ---
 
-## ✎ Contribution Graph
+## ⌨  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladislavprozorov&theme=github-compact" />
