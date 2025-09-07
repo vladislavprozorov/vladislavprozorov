@@ -14,17 +14,18 @@
 </p>
 </h2>
 
-## ☘️ Full Stack Developer | UI/UX Engineer | Growth-Oriented
+## 💻 Full Stack Developer | UI/UX Engineer | Growth-Oriented
+
 I specialize in building **interactive, scalable, and high-performance web applications** that turn complex challenges into intuitive digital solutions. I deliver end-to-end solutions across:
 
-**Full Stack Development**: React, TypeScript, Node.js, Express.js, Sequelize, REST APIs   
+**Full Stack Development**: React, TypeScript, Node.js, Express.js, Sequelize, REST APIs  
 **UI/UX Engineering**: Designing seamless interfaces with Tailwind, Framer Motion, and modern component libraries  
 **Backend Architecture**: Scalable REST APIs, secure authentication, and performance optimization  
-**Continuous Innovation**: Always exploring new tools and approaches to bring fresh ideas into projects  
+**Continuous Innovation**: Always exploring new tools and approaches to bring fresh ideas into projects
 
 My commitment is to **clean code, scalable architecture, and meaningful user experiences** that drive real results.
 
-## 🧩 Tech Stack
+## </> Tech Stack
 
 <table align="center">
   <tr>
@@ -91,7 +92,7 @@ My commitment is to **clean code, scalable architecture, and meaningful user exp
 
 ---
 
-## 💻 Why work with me? (From Code to Business Value)
+## ☕︎‧ Why work with me? (From Code to Business Value)
 
 **User Engagement Growth** — Increased platform user engagement by **40%** through interactive learning features and gamification.  
 **Backend Performance** — Reduced backend response times by **35%** by optimizing APIs with Express.js and Sequelize.  
@@ -134,7 +135,7 @@ My commitment is to **clean code, scalable architecture, and meaningful user exp
 
 ---
 
-## 🥑 Fun Facts
+## ☕ Fun Facts
 
 <div align="center" style="max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #276749; font-weight: 600; font-size: 22px; line-height: 1.5;">
 
